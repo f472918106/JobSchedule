@@ -1,0 +1,12 @@
+C:\Users\47291\Desktop\新建文件夹\JobScheduling\JobScheduling\bin\Debug\JobScheduling.exe.config
+C:\Users\47291\Desktop\新建文件夹\JobScheduling\JobScheduling\bin\Debug\JobScheduling.exe
+C:\Users\47291\Desktop\新建文件夹\JobScheduling\JobScheduling\bin\Debug\JobScheduling.pdb
+C:\Users\47291\Desktop\新建文件夹\JobScheduling\JobScheduling\obj\Debug\JobScheduling.csprojResolveAssemblyReference.cache
+C:\Users\47291\Desktop\新建文件夹\JobScheduling\JobScheduling\obj\Debug\JobScheduling.exe
+C:\Users\47291\Desktop\新建文件夹\JobScheduling\JobScheduling\obj\Debug\JobScheduling.pdb
+D:\Study\操作系统\JobScheduling\JobScheduling\bin\Debug\JobScheduling.exe.config
+D:\Study\操作系统\JobScheduling\JobScheduling\obj\Debug\JobScheduling.exe
+D:\Study\操作系统\JobScheduling\JobScheduling\obj\Debug\JobScheduling.pdb
+D:\Study\操作系统\JobScheduling\JobScheduling\bin\Debug\JobScheduling.exe
+D:\Study\操作系统\JobScheduling\JobScheduling\bin\Debug\JobScheduling.pdb
+D:\Study\操作系统\JobScheduling\JobScheduling\obj\Debug\JobScheduling.csprojResolveAssemblyReference.cache
